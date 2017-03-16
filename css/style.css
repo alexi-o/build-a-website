@@ -61,6 +61,22 @@ nav a {
 	margin-right: auto;
 }
 
+#container2 {
+	height: 500px;
+	width: 300px;
+	background: black;
+}
+
+
+#container3 {
+	height: 245px;
+	width: 300px;
+	display: block;
+	box-shadow: 10px 10px 5px rgba(0,0,0,.8);
+	top: 30px;
+	position: relative;
+}
+
 #contentBlock {
 	position: relative;
 	display: block;
@@ -99,6 +115,11 @@ h3 {
 
 .box:hover {
 	background: white;
+}
+
+img {
+	width: 100%;
+	height: 100%;
 }
 
 
